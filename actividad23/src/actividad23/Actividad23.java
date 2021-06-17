@@ -16,6 +16,9 @@ public class Actividad23 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Hora nuevaHora = new Hora();
+        nuevaHora.obtenerSegundos();
+        nuevaHora.convertirSegundos();
     }
     
 }
